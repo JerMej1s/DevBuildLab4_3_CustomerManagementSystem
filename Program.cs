@@ -111,11 +111,11 @@ namespace Lab4_3_CustomerManagementSystem
             
             Console.WriteLine("\t\t----- List of customers -----");
             ListCustomers(customers);
-            Console.WriteLine("\n\t\t-------- end of list --------\n");
+            Console.WriteLine("\n\t\t-------- end of list --------");
 
             do
             {
-                Console.Write("Enter a company name or phone number to search for: ");
+                Console.Write("\nEnter a company name or phone number to search for: ");
                 string userInput = Console.ReadLine();
                 aCustomer = SearchForCustomer(customers, userInput);
                 if (aCustomer != null) Console.WriteLine($"\nCustomer found!\n{aCustomer}");
