@@ -108,13 +108,13 @@ namespace Lab4_3_CustomerManagementSystem
 
             aCustomer = new Customer("Sirius Cybernetics Corp.", "Arthur Philip Dent", "arthurdent@siriuscybernetics.com", "42");
             customers.Add(aCustomer);
+            
+            Console.WriteLine("\t\t----- List of customers -----");
+            ListCustomers(customers);
+            Console.WriteLine("\n\t\t-------- end of list --------\n");
 
             do
             {
-                Console.WriteLine("\t\t----- List of customers -----");
-                ListCustomers(customers);
-                Console.WriteLine("\n\t\t-------- end of list --------\n");
-
                 Console.Write("Enter a company name or phone number to search for: ");
                 string userInput = Console.ReadLine();
                 aCustomer = SearchForCustomer(customers, userInput);
