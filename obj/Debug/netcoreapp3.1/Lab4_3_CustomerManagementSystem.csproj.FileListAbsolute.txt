@@ -1,0 +1,13 @@
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\bin\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.exe
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\bin\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.deps.json
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\bin\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.runtimeconfig.json
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\bin\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.runtimeconfig.dev.json
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\bin\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.dll
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\bin\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.pdb
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\obj\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.csproj.AssemblyReference.cache
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\obj\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.AssemblyInfoInputs.cache
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\obj\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.AssemblyInfo.cs
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\obj\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.csproj.CoreCompileInputs.cache
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\obj\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.dll
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\obj\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.pdb
+C:\DevBuild\Week04\Lab4_3_CustomerManagementSystem\obj\Debug\netcoreapp3.1\Lab4_3_CustomerManagementSystem.genruntimeconfig.cache
